@@ -9,3 +9,5 @@ FAST_PRIME.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/v
 PITAGORAS.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1582">URI Online Judge 1582 - The Pythagorean Theorem </a> <br>
 ErasingAndWinning.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1084">URI Online Judge 1084 - Erasing and Winning </a> <br>
 Elevator.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1124">URI Online Judge 1124 - Elevator </a> <br>
+Lottery.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1694">URI Online Judge 1694 - Lottery </a> <br>
+Star.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1233">URI Online Judge 1233 - Star </a> <br>
