@@ -11,3 +11,5 @@ ErasingAndWinning.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/pro
 Elevator.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1124">URI Online Judge 1124 - Elevator </a> <br>
 Lottery.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1694">URI Online Judge 1694 - Lottery </a> <br>
 Star.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1233">URI Online Judge 1233 - Star </a> <br>
+HeadOrTail.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1329">URI Online Judge 1329 - Head or Tail </a> <br>
+Help!.cpp = <a href= "https://www.urionlinejudge.com.br/judge/en/problems/view/1367">URI Online Judge 1367 - Help! </a> <br>
